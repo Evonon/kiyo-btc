@@ -1,0 +1,188 @@
+Uri: https://kiyo-btc.info/
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\index.htm
+Content Type: text/html
+
+Uri: https://kiyo-btc.info/img/fav.png
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\img\fav.png
+Content Type: image/png
+
+Uri: https://kiyo-btc.info/style.css
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\style.css
+Content Type: text/css
+
+Uri: https://kiyo-btc.info/cdn-cgi/l/email-protection
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://kiyo-btc.info/img/logo.png
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\img\logo.png
+Content Type: image/png
+
+Uri: https://kiyo-btc.info/img/qr.png
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\img\qr.png
+Content Type: image/png
+
+Uri: https://kiyo-btc.info/js/clipboard.js
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\js\clipboard.js
+Content Type: application/javascript
+
+Uri: https://kiyo-btc.info/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://kiyo-btc.info/img/bg.jpg
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://kiyo-btc.info/img/trade.png
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\img\trade.png
+Content Type: image/png
+
+Uri: https://kiyo-btc.info/img/ready.png
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\img\ready.png
+Content Type: image/png
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/cf.errors.css
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://kiyo-btc.info/cdn-cgi/scripts/zepto.min.js
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: https://kiyo-btc.info/cdn-cgi/scripts/cf.common.js
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300.bin
+Content Type: application/octet-stream
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400.bin
+Content Type: application/octet-stream
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-600.bin
+Content Type: application/octet-stream
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-700.bin
+Content Type: application/octet-stream
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300i.bin
+Content Type: application/octet-stream
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400i.bin
+Content Type: application/octet-stream
+
+Uri: https://kiyo-btc.info/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: https://kiyo-btc.info/cdn-cgi/images/error_icons.png
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\images\error_icons.png
+Content Type: image/png
+
+Uri: https://kiyo-btc.info/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://kiyo-btc.info/cdn-cgi/images/browser-bar.png?1376755637
+File Name: D:\PROJECTS\kiyo-btc\kiyo-btc.info\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
